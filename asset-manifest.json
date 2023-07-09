@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/synetic-ss/static/css/main.d6d41663.css",
+    "main.js": "/synetic-ss/static/js/main.2d012e89.js",
+    "static/media/beautiful-shining-stars-night-sky.jpg": "/synetic-ss/static/media/beautiful-shining-stars-night-sky.a7257e7fbff66d7fb7cc.jpg",
+    "static/media/10.png": "/synetic-ss/static/media/10.829b56c8ec126b05ca9d.png",
+    "static/media/VarityShopAccFinal_(73).mp4": "/synetic-ss/static/media/VarityShopAccFinal_(73).7ec99aa68bc4f3598490.mp4",
+    "static/media/man.png": "/synetic-ss/static/media/man.fe4d09be35da506519a1.png",
+    "static/media/M.jpeg": "/synetic-ss/static/media/M.425e1794d7b84e77bd62.jpeg",
+    "static/media/dash.png": "/synetic-ss/static/media/dash.ef367b2b348bbf37ba26.png",
+    "static/media/S.jpg": "/synetic-ss/static/media/S.69c865e8a3b7cbf37dd1.jpg",
+    "static/media/header-img.svg": "/synetic-ss/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/about-banner.png": "/synetic-ss/static/media/about-banner.f295c5dc964e4e9aaa72.png",
+    "static/media/Screenshot 2023-07-04 080731.png": "/synetic-ss/static/media/Screenshot 2023-07-04 080731.b10799cffacd6f511bd5.png",
+    "static/media/Group 7.png": "/synetic-ss/static/media/Group 7.b721334a64a231ff0e84.png",
+    "index.html": "/synetic-ss/index.html",
+    "static/media/credit-card.svg": "/synetic-ss/static/media/credit-card.b5ffe040912a186978fa0016d4e82cdc.svg",
+    "main.d6d41663.css.map": "/synetic-ss/static/css/main.d6d41663.css.map",
+    "main.2d012e89.js.map": "/synetic-ss/static/js/main.2d012e89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d41663.css",
+    "static/js/main.2d012e89.js"
+  ]
+}
